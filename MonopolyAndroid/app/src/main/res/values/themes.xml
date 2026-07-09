@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MonopolyGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#8B4513</item>
+        <item name="colorPrimaryVariant">#5D2E0C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#228B22</item>
+        <item name="android:statusBarColor">#5D2E0C</item>
+    </style>
+</resources>
